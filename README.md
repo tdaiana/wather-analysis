@@ -12,3 +12,7 @@ https://www.donneesquebec.ca/recherche/dataset/bf2ca474-b331-4d35-ad09-351ca8f89
 
 Data source: 
 https://www.donneesquebec.ca/recherche/dataset/suivi-physicochimique-des-rivieres-et-du-fleuve
+
+
+We have  rivers in Quebec and we have certain outdoor activities for adventure loving people. We want to find out what contaminants/chemicals are present in the rivers and which are the most concentrated one in any river. We have an AI solution suggesting when the new data point comes in we can tell the user that which chemical is the highest one in that data point and also can tell the geolocation of that sample. Also for further interest for the user, our application can tell the concentration of any chemical in the past years (can also predict for the upcoming year). The user can also find  how rivers are correlated to each other in their contamination and other properties.
+
